@@ -5,6 +5,7 @@
   "main": "slides.js",
   "scripts": {
   },
+  "repository": "EthanRBrown/ni2017-slides",
   "author": "Ethan Brown <e@zepln.com>",
   "license": "(MIT OR GPL-3.0)"
 }
