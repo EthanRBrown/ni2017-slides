@@ -5,12 +5,56 @@ bind the "this" variable lexcially instead the context-dependent rules for regul
 methods.  To learn more, I recommend <a href="https://medium.freecodecamp.org/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881">Mariya Diminsky's article</a>
 on the subject and, of coruse, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions">MDN's documentation</a>.
 `
-
 const q2copy = `
 The <i>spread operator</i> provides a way to treat arrays as if they were individual values separated by commas (hence the
 name: you are "spreading" the array values out with commas).  I recommend the David Walsh article,
 <a href="https://davidwalsh.name/spread-operator">6 Great Uses of the Spread Operator</a>, and the
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator">MDN documentation</a>.
+`
+const q3copy = `
+The object spread operator is newer, and not yet standard, but I love how compoact it makes object composition.  I recommend
+reading <a href="https://davidwalsh.name/merge-objects">Merge Object Properties with the Spread Operator</a>.
+`
+const q4copy = `
+Axel Rauschmayer explains destructuring quiet eloquently (and comprehensively) in his article
+<a href="http://2ality.com/2015/01/es6-destructuring.html">Destructuring and Praameter Hnadling in ECMAScript 6</a>.  See also 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">MDN documentation</a>.
+`
+const q5copy = `
+Computed property keys help make object construction code much more compact, and help make functional programming more smooth.
+I recommend Ben Ilegbodu's <a href="http://www.benmvp.com/learning-es6-enhanced-object-literals/">Learning ES6: Enhanced Object Literals</a>
+ (feel free to skip to the "Computed Property Keys" section).  See also MDN's <a href="">object initializer documentation</a>.
+`
+const q6copy = `
+There are lots of good resources for learning about promises.  Among the best are 
+Jecelyn Yeen's <a href="https://scotch.io/tutorials/javascript-promises-for-dummies">Promises for Dummies</a> and 
+<a href="https://developers.google.com/web/fundamentals/primers/promises">JavaScript Promises: an Introduction</a> by
+Jake Archibald of Google.  See also the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">MDN documentation</a>.
+`
+q7copy = `
+To learn about string templates, in addition to the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">MDN documentation</a>, 
+Keith Cirkel has a great introduction in <a href="https://www.keithcirkel.co.uk/es6-template-literals/">ES6 Template Literals, the Handlebars Killer?</a>.
+`
+q8copy = `
+Mostafa Gaafar makes a great case for async/await in <a href="https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9">6 Reasons Why JavaScript's Async/Await Blows Promises Away (Tutorial)</a>,
+and Nicolás Bevacqua's <a href="https://ponyfoo.com/articles/understanding-javascript-async-await">Understanding JavaScript's async await</a> offers a great history and introduction.  The
+<a href="">MDN documentation</a> is excellent, as always.
+`
+q9copy = `
+For me, the biggest sell of class fields is making React code less cumbersome.  So if React is your jam, I would start with
+Peter Bengtsson's <a href="Public Class Fields Saves Sooo Many Keystrokes in React Code</a>.  For a general introduction, see
+Axel Rauschmayer's <a href="http://2ality.com/2017/07/class-fields.html">ES Proposal: Class Fields</a>.
+`
+q10copy = `
+To get the real dirt on JavaScript's for...of statement, it's critcial to understand iterables in JavaScript, and for that it's
+hard to beat Axel Rauschmayer's article <a href="http://2ality.com/2015/02/es6-iteration.html">Iterables and Iterators in ECMAScript 6</a>.
+For a straightforward explanation with good examples, see the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of">MDN documentation</a>.
+`
+q11copy = `
+For an excellent and very technical explanation of ECMASCript Modules (ESM) vs CommonJS Modules (CJS), see
+James Snell's <a href="https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e">Node.js, TC-39, and Modules</a>.
+It's also worth reading Axel Rauschmayer's take on the '.mjs' extension: <a href="http://2ality.com/2017/05/es-module-specifiers.html">Module Specifiers: What's New with ES Modules?</a>
+For a practical introduction, see Jason Orendorff's <a href="https://hacks.mozilla.org/2015/08/es6-in-depth-modules/">ES6 In Depth: Modules</a>.
 `
 
 module.exports = [
