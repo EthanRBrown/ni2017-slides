@@ -1,10 +1,9 @@
 {
   "name": "@zepln/ni2017-slides",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slide content for Node Interactive 2017.",
   "main": "slides.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": "EthanRBrown/ni2017-slides",
   "author": "Ethan Brown <e@zepln.com>",
   "license": "(MIT OR GPL-3.0)"
