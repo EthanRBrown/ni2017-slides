@@ -36,16 +36,15 @@ It's also worth reading Axel Rauschmayer's take on the '.mjs' extension: <a href
 For a practical introduction, see Jason Orendorff's <a href="https://hacks.mozilla.org/2015/08/es6-in-depth-modules/">ES6 In Depth: Modules</a>.`
 
 module.exports = [
-  { id: '45123041-9a4c-4035-9e69-4e82b3e4a926', name: 'Q1', copy: q1copy },
-  { id: 'c8cfe426-8495-4e40-bc31-dd29991a4ccc', name: 'Q2', copy: q2copy },
-  { id: '830acec0-c84a-4af1-8134-79be1b7d6469', name: 'Q3', copy: q3copy },
-  { id: '3edd6c5c-4949-4154-bfe3-4fe94e45332f', name: 'Q4', copy: q4copy },
-
-  { id: '41bd02ea-799d-4180-99ab-59ecafd17216', name: 'Q5', copy: q5copy },
-  { id: 'dd76e23d-2b5a-4713-8bba-7a098ff7a925', name: 'Q6', copy: q6copy },
-  { id: 'a5f57205-6f19-426a-8950-e07686c4a256', name: 'Q7', copy: q7copy },
-  { id: '33eaea79-a56a-4e24-b6db-1c96a3e18702', name: 'Q8', copy: q8copy },
-  { id: '22ec7fb3-724a-4ea4-980c-c6e88296755a', name: 'Q9', copy: q9copy },
-  { id: 'a4082215-de1d-4443-ac29-9c7a41441eb3', name: 'Q10', copy: q10copy },
-  { id: '66040512-4f42-4afe-a65c-475e140c3052', name: 'Q11', copy: q11copy },
+  { id: '45123041-9a4c-4035-9e69-4e82b3e4a926', name: 'Q1', title: 'Arrow Functions', copy: q1copy },
+  { id: 'c8cfe426-8495-4e40-bc31-dd29991a4ccc', name: 'Q2', title: 'Array Spread / Rest Parameters', copy: q2copy },
+  { id: '830acec0-c84a-4af1-8134-79be1b7d6469', name: 'Q3', title: 'Object Spread', copy: q3copy },
+  { id: '3edd6c5c-4949-4154-bfe3-4fe94e45332f', name: 'Q4', title: 'Destructuring', copy: q4copy },
+  { id: '41bd02ea-799d-4180-99ab-59ecafd17216', name: 'Q5', title: 'Computed Property Names / Property Shorthand', copy: q5copy },
+  { id: 'dd76e23d-2b5a-4713-8bba-7a098ff7a925', name: 'Q6', title: 'Promises', copy: q6copy },
+  { id: 'a5f57205-6f19-426a-8950-e07686c4a256', name: 'Q7', title: 'String Templates', copy: q7copy },
+  { id: '33eaea79-a56a-4e24-b6db-1c96a3e18702', name: 'Q8', title: 'async / await', copy: q8copy },
+  { id: '22ec7fb3-724a-4ea4-980c-c6e88296755a', name: 'Q9', title: 'Class Fields', copy: q9copy },
+  { id: 'a4082215-de1d-4443-ac29-9c7a41441eb3', name: 'Q10', title: 'for...of', copy: q10copy },
+  { id: '66040512-4f42-4afe-a65c-475e140c3052', name: 'Q11', title: 'export / import', copy: q11copy },
 ]
