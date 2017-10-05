@@ -1,6 +1,6 @@
 {
   "name": "@zepln/ni2017-slides",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Slide content for Node Interactive 2017.",
   "main": "dist/slides.js",
   "scripts": {
