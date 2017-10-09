@@ -9,7 +9,7 @@ name: you are "spreading" the array values out with commas).  I recommend the Da
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator">MDN documentation</a>.`
 const q3copy = `The object spread operator is newer, and not yet standard, but I love how compoact it makes object composition.  I recommend
 reading <a href="https://davidwalsh.name/merge-objects">Merge Object Properties with the Spread Operator</a>.`
-const q4copy = `Axel Rauschmayer explains destructuring quiet eloquently (and comprehensively) in his article
+const q4copy = `Axel Rauschmayer explains destructuring quite eloquently (and comprehensively) in his article
 <a href="http://2ality.com/2015/01/es6-destructuring.html">Destructuring and Praameter Hnadling in ECMAScript 6</a>.  See also 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">MDN documentation</a>.`
 const q5copy = `Computed property keys help make object construction code much more compact, and help make functional programming more smooth.
@@ -25,7 +25,7 @@ const q8copy = `Mostafa Gaafar makes a great case for async/await in <a href="ht
 and Nicolás Bevacqua's <a href="https://ponyfoo.com/articles/understanding-javascript-async-await">Understanding JavaScript's async await</a> offers a great history and introduction.  The
 <a href="">MDN documentation</a> is excellent, as always.`
 const q9copy = `For me, the biggest sell of class fields is making React code less cumbersome.  So if React is your jam, I would start with
-Peter Bengtsson's <a href="Public Class Fields Saves Sooo Many Keystrokes in React Code</a>.  For a general introduction, see
+Peter Bengtsson's <a href="https://www.peterbe.com/plog/public-class-fields">Public Class Fields Saves Sooo Many Keystrokes in React Code</a>.  For a general introduction, see
 Axel Rauschmayer's <a href="http://2ality.com/2017/07/class-fields.html">ES Proposal: Class Fields</a>.`
 const q10copy = `To get the real dirt on JavaScript's for...of statement, it's critcial to understand iterables in JavaScript, and for that it's
 hard to beat Axel Rauschmayer's article <a href="http://2ality.com/2015/02/es6-iteration.html">Iterables and Iterators in ECMAScript 6</a>.

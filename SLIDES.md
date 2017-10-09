@@ -12,7 +12,7 @@ The object spread operator is newer, and not yet standard, but I love how compoa
 
 ### Destructuring
 
-Axel Rauschmayer explains destructuring quiet eloquently (and comprehensively) in his article [Destructuring and Praameter Hnadling in ECMAScript 6](http://2ality.com/2015/01/es6-destructuring.html). See also [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
+Axel Rauschmayer explains destructuring quite eloquently (and comprehensively) in his article [Destructuring and Praameter Hnadling in ECMAScript 6](http://2ality.com/2015/01/es6-destructuring.html). See also [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
 
 ### Computed Property Names / Property Shorthand
 
@@ -32,8 +32,7 @@ Mostafa Gaafar makes a great case for async/await in [6 Reasons Why JavaScript's
 
 ### Class Fields
 
-For me, the biggest sell of class fields is making React code less cumbersome. So if React is your jam, I would start with Peter Bengtsson's [ES Proposal: Class Fields](Public Class Fields Saves Sooo Many Keystrokes in React Code</a>.  For a general introduction, see
-Axel Rauschmayer's <a href=).
+For me, the biggest sell of class fields is making React code less cumbersome. So if React is your jam, I would start with Peter Bengtsson's [Public Class Fields Saves Sooo Many Keystrokes in React Code](https://www.peterbe.com/plog/public-class-fields). For a general introduction, see Axel Rauschmayer's [ES Proposal: Class Fields](http://2ality.com/2017/07/class-fields.html).
 
 ### for...of
 
